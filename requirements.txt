@@ -1,0 +1,10 @@
+streamlit==1.8.1
+sklearn
+pandas
+numpy
+plotly
+twitter
+matplotlib
+seaborn
+IPython
+tqdm
